@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Acerca de mí, hola👋
+Por ahora nose que poner...
 <!--
 **roma-0111/roma-0111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,4 +13,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 -->
